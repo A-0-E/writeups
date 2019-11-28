@@ -1,2 +1,2 @@
 # writeups
-Write-ups from A*0*E.
+Write-ups from A\*0\*E.
